@@ -1,0 +1,27 @@
+# Session Management Experiment
+
+This project explores session management in Java web applications. It demonstrates how to maintain user state, handle logins, and manage transactions securely.
+
+## Features
+- User login and session tracking
+- Transaction management
+- Secure session handling
+- Example servlets for login and transactions
+
+## Folder Structure
+- `Shopping-cart/`: Source code and resources for the shopping cart
+- `index.html`: Entry point for the app
+- `LoginServlet.java`, `TransactionServlet.java`: Java servlets for session logic
+
+## How to Use
+1. Import the project into your Java IDE.
+2. Deploy to a servlet container (e.g., Tomcat).
+3. Open `index.html` and test login/session features.
+
+## Learning Outcomes
+- Understand session management in web apps
+- Practice secure coding for user authentication
+- Learn servlet-based web development
+
+---
+Try extending the session logic or adding new user features!

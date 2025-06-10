@@ -1,0 +1,28 @@
+# Java Standalone CRUD App with MySQL
+
+This project demonstrates a standalone Java application that performs CRUD (Create, Read, Update, Delete) operations on a MySQL database. It is perfect for learning about JDBC, database connectivity, and Java application structure.
+
+## Features
+- Connects to a MySQL database
+- Add, update, delete, and view records
+- Console-based user interface
+- Well-organized source code
+
+## Folder Structure
+- `src/`: Java source files for CRUD operations
+- `bin/`: Compiled Java classes
+- `lib/`: External libraries (e.g., MySQL connector)
+- `sql.txt`: SQL scripts for database setup
+
+## How to Use
+1. Set up a MySQL database using the provided `sql.txt` script.
+2. Compile the Java files in `src/` (use the libraries in `lib/`).
+3. Run the application from the command line or your IDE.
+
+## Learning Outcomes
+- Understand JDBC and database operations in Java
+- Practice organizing Java projects
+- Learn to handle user input and database errors
+
+---
+Try extending the app with a GUI or additional features!

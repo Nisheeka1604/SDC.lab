@@ -1,0 +1,27 @@
+# Node.js JWT Authentication API
+
+This project demonstrates how to implement JWT-based authentication in a Node.js API. It is perfect for learning about secure authentication, middleware, and token management.
+
+## Features
+- User registration and login
+- JWT token generation and validation
+- Protected API routes
+- Modular controllers and middleware
+
+## Folder Structure
+- `app.js`, `index.js`: Main server files
+- `controllers/`, `middleware/`, `routes/`: Organized code for scalability
+- `package.json`: Project dependencies
+
+## How to Use
+1. Install dependencies: `npm install`
+2. Start the server: `node index.js`
+3. Use Postman to register, login, and access protected routes
+
+## Learning Outcomes
+- Implement JWT authentication in Node.js
+- Secure API endpoints with middleware
+- Understand token-based security
+
+---
+Enhance the project by adding user roles or refresh tokens!

@@ -1,0 +1,28 @@
+# Servlet-Based Shopping Cart Controller
+
+This experiment introduces Java Servlets for building a shopping cart controller in a web application. It is ideal for learning about server-side Java, MVC architecture, and web deployment.
+
+## Features
+- Java Servlet-based controller logic
+- Handles shopping cart actions (add, remove, view)
+- Organized MVC folder structure
+- Example Tomcat server setup
+
+## Folder Structure
+- `shopping-cart/src/`: Java source code for the controller
+- `WebContent/`: Web resources (JSP, HTML, WEB-INF)
+- `lib/`: Libraries and Tomcat server files
+- `src/`: Additional Java source files
+
+## How to Use
+1. Import the project into Eclipse or your preferred IDE.
+2. Deploy to Apache Tomcat (see `lib/apache-tomcat-9.0.104/`).
+3. Access the app via your browser and interact with the shopping cart.
+
+## Learning Outcomes
+- Understand Java Servlets and web controllers
+- Practice MVC design in Java web apps
+- Learn about deployment with Tomcat
+
+---
+Experiment with adding new features or improving the UI!

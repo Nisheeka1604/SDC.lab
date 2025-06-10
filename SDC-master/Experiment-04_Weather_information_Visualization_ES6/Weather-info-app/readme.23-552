@@ -1,0 +1,26 @@
+# Weather Information Visualization (ES6)
+
+This project visualizes weather data using modern JavaScript (ES6). It is designed to help you learn about API integration, data visualization, and responsive UI design.
+
+## Features
+- Fetches real-time weather data from an API
+- Visualizes temperature, humidity, and conditions
+- Responsive and interactive charts
+- Clean, user-friendly interface
+
+## Folder Structure
+- `images/`: Weather icons and backgrounds
+- `public/`: HTML, CSS, and JS files for the app
+
+## How to Use
+1. Open the main HTML file in your browser.
+2. Enter a city or location to view weather data.
+3. Explore the code to see how ES6 features are used.
+
+## Learning Outcomes
+- Work with APIs and asynchronous JavaScript
+- Visualize data with charts and graphics
+- Build interactive, modern web apps
+
+---
+Enhance the app by adding more data sources or visualization types!

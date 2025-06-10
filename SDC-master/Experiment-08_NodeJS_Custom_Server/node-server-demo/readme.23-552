@@ -1,0 +1,26 @@
+# Node.js Custom Server Demo
+
+This experiment demonstrates how to build a custom HTTP server using Node.js. It is a great way to learn about Node.js core modules, event-driven programming, and server-side JavaScript.
+
+## Features
+- Custom HTTP server implementation
+- Handles multiple routes and events
+- Demonstrates Node.js core modules (fs, os, path)
+- Simple, well-commented code
+
+## Folder Structure
+- `eventDemo.js`, `osInfo.js`, `pathDemo.js`: Node.js demo scripts
+- `server.js`: Main server file
+
+## How to Use
+1. Install Node.js if you haven't already.
+2. Run `node server.js` in the terminal.
+3. Access the server via your browser or tools like Postman.
+
+## Learning Outcomes
+- Understand Node.js event loop and modules
+- Build and extend custom servers
+- Practice server-side JavaScript
+
+---
+Try adding new routes or features to the server for more practice!

@@ -1,0 +1,26 @@
+# Shopping Cart App (Bootstrap)
+
+This project demonstrates how to build a shopping cart web application using Bootstrap for rapid, responsive design. It is ideal for learning how to leverage Bootstrap's grid system and components for e-commerce interfaces.
+
+## Features
+- Responsive layout with Bootstrap
+- Product cards and cart summary
+- User-friendly navigation
+- Modern, mobile-first design
+
+## Folder Structure
+- `public/css/`: Custom and Bootstrap CSS files
+- `public/html/`: HTML pages for the app
+
+## How to Use
+1. Open any HTML file in the `public/html/` folder in your browser.
+2. Explore the cart and product pages styled with Bootstrap.
+3. Customize the look by editing CSS or Bootstrap classes.
+
+## Learning Outcomes
+- Use Bootstrap for rapid UI development
+- Understand responsive web design principles
+- Practice building e-commerce layouts
+
+---
+Experiment with Bootstrap components to enhance your project further!

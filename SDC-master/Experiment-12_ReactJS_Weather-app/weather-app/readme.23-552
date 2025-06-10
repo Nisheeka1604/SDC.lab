@@ -1,0 +1,28 @@
+# ReactJS Weather App
+
+Welcome to the **ReactJS Weather App**!
+
+This project is a sleek, real-time weather information app built with ReactJS, perfect for learning about API integration and modern UI design. It demonstrates how to fetch and display live weather data in a user-friendly way.
+
+## Features
+- Search for weather by city name
+- Displays temperature, humidity, and weather conditions
+- Responsive, attractive interface for all devices
+- Easy to extend and customize with new features
+
+## Folder Structure
+- `src/`: React components, state management, and styles
+- `public/`: Static assets and HTML template
+
+## How to Use
+1. Install dependencies: `npm install`
+2. Start the development server: `npm start`
+3. Open your browser at `http://localhost:3000/`
+
+## Learning Outcomes
+- Integrate APIs in React
+- Build and style modern web apps
+- Practice React project structure and best practices
+
+---
+Try adding more weather features, such as forecasts, location-based search, or advanced visualizations!

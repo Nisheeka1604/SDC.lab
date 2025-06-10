@@ -1,0 +1,28 @@
+# Django Student Management System
+
+This project is a web-based student management system built with Django. It is designed to help you learn about Django models, views, templates, and admin features.
+
+## Features
+- Add, update, and delete student records
+- User-friendly web interface
+- Django admin integration
+- Organized codebase for easy extension
+
+## Folder Structure
+- `core/`: Main app logic
+- `static/`: Static files (CSS, JS, images)
+- `student_mgmt/`: Project settings and configuration
+
+## How to Use
+1. Install dependencies: `pip install -r requirements.txt` (if available)
+2. Run migrations: `python manage.py migrate`
+3. Start the server: `python manage.py runserver`
+4. Access the app at `http://127.0.0.1:8000/`
+
+## Learning Outcomes
+- Work with Django models and admin
+- Build CRUD web apps
+- Practice Django project organization
+
+---
+Try adding new features or customizing the UI for more learning!

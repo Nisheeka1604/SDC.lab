@@ -1,0 +1,27 @@
+# Shopping Cart App (CSS)
+
+Welcome to the Shopping Cart App, a beginner-friendly project focused on mastering HTML and CSS for e-commerce interfaces. This experiment demonstrates how to build a visually appealing and functional shopping cart using only HTML and CSS.
+
+## Features
+- Responsive shopping cart layout
+- Product listing with images
+- Add/remove items visually (UI only)
+- Clean, modern design
+
+## Folder Structure
+- `images/`: Contains product and logo images for the app
+- `public/css/`: CSS stylesheets for layout and design
+- `public/html/`: HTML files for the shopping cart pages
+
+## How to Use
+1. Open any HTML file in the `public/html/` folder with your browser.
+2. Explore the cart interface and product listings.
+3. Modify the CSS in `public/css/` to experiment with styles.
+
+## Learning Outcomes
+- Practice semantic HTML structure
+- Master CSS layouts and responsive design
+- Understand the basics of e-commerce UI/UX
+
+---
+Feel free to extend this project by adding JavaScript for interactivity or customizing the design further!

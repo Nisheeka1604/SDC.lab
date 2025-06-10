@@ -1,0 +1,27 @@
+# Django To-Do App
+
+This project is a simple yet powerful to-do list application built with Django. It is perfect for learning about Django models, views, forms, and templates while building a practical productivity tool.
+
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as complete or pending
+- Clean, intuitive web interface
+- Django admin integration
+
+## Folder Structure
+- `todo/`: App logic and templates
+- `todo_project/`: Project settings
+
+## How to Use
+1. Install dependencies: `pip install -r requirements.txt` (if available)
+2. Run migrations: `python manage.py migrate`
+3. Start the server: `python manage.py runserver`
+4. Open your browser at `http://127.0.0.1:8000/`
+
+## Learning Outcomes
+- Build CRUD apps with Django
+- Practice form handling and validation
+- Organize Django projects for scalability
+
+---
+Try adding user authentication or task categories for more features!

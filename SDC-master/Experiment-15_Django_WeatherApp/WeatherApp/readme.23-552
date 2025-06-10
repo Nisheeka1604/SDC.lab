@@ -1,0 +1,27 @@
+# Django Weather App
+
+This project is a weather information web app built with Django. It fetches and displays real-time weather data for any city, making it a great example of API integration and Django templating.
+
+## Features
+- Search for weather by city
+- Displays temperature, humidity, and conditions
+- Clean, responsive UI
+- Easy to extend and customize
+
+## Folder Structure
+- `weather/`: App logic and templates
+- `weatherproject/`: Project settings
+
+## How to Use
+1. Install dependencies: `pip install -r requirements.txt` (if available)
+2. Run migrations: `python manage.py migrate`
+3. Start the server: `python manage.py runserver`
+4. Open your browser at `http://127.0.0.1:8000/`
+
+## Learning Outcomes
+- Integrate APIs in Django
+- Build and style web apps
+- Practice Django project structure
+
+---
+Try adding more weather features or improving the UI!

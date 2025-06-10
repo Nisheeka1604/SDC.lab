@@ -1,0 +1,25 @@
+# Shopping Cart App with Validation
+
+This experiment extends the basic shopping cart by adding form validation and improved user experience. It is a great way to learn about client-side validation and best practices in web forms.
+
+## Features
+- Shopping cart UI with product listing
+- Form validation for user input
+- Organized folder structure for HTML and JS
+
+## Folder Structure
+- `public/html/`: HTML files for the app
+- `public/js/`: JavaScript files for validation logic
+
+## How to Use
+1. Open the HTML files in your browser.
+2. Try adding items to the cart and submitting forms to see validation in action.
+3. Review the JavaScript in `public/js/` to understand validation logic.
+
+## Learning Outcomes
+- Implement client-side form validation
+- Enhance user experience with feedback
+- Organize code for maintainability
+
+---
+Try extending the validation logic or adding new features for a more robust app!
