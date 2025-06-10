@@ -1,10 +1,8 @@
 # ReactJS To-Do App
 
-Welcome to the **ReactJS To-Do App**!
+> **Note:** I was not able to execute this project in the current environment. However, these are the features that are intended to be included in this folder/project:
 
-This project is a simple and effective to-do list application built with ReactJS, ideal for learning about React components, state, and event handling. It provides a clean and intuitive interface for managing your daily tasks.
-
-## Features
+## Intended Features
 - Add, edit, and delete tasks quickly
 - Mark tasks as complete or pending
 - Clean, responsive UI for all devices
@@ -13,16 +11,6 @@ This project is a simple and effective to-do list application built with ReactJS
 ## Folder Structure
 - `src/`: React components, state logic, and styles
 - `public/`: Static assets and HTML template
-
-## How to Use
-1. Install dependencies: `npm install`
-2. Start the development server: `npm start`
-3. Open your browser at `http://localhost:3000/`
-
-## Learning Outcomes
-- Build CRUD apps with React
-- Manage state and events efficiently
-- Practice component-based development and UI design
 
 ---
 Try adding user authentication, task filters, or persistent storage for more advanced features!
