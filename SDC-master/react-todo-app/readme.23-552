@@ -1,0 +1,8 @@
+# react-todo-app
+
+A React.js to-do list application. Main components:
+- `src/`: React components and logic.
+- `public/`: Static assets and HTML template.
+- `package.json`: Project metadata and dependencies.
+
+Install dependencies with `npm install` and start with `npm start`.

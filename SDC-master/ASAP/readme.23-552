@@ -1,0 +1,7 @@
+# ASAP
+
+This folder contains the ASAP project. It includes Java source code and build files. Main subfolders:
+- `build/`: Compiled classes and utilities.
+- `src/`: Source code for the application.
+
+Refer to the respective subfolders for more details.

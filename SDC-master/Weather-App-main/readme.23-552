@@ -1,0 +1,8 @@
+# Weather-App-main
+
+A Django-based weather application. Main components:
+- `weatherapp/`: Contains app logic, models, and views.
+- `weatherproject/`: Project settings and configuration.
+- `static/`: Static files like CSS and images.
+
+Run with `python manage.py runserver`.

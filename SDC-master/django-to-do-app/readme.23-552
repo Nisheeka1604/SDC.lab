@@ -1,0 +1,9 @@
+# django-to-do-app
+
+A Django-based to-do application. Key files and folders:
+- `manage.py`: Django management script.
+- `requirements.txt`: Python dependencies.
+- `tasks/`: Contains the main app logic, models, views, and templates.
+- `todo/`: Project settings and configuration.
+
+Run with `python manage.py runserver`.

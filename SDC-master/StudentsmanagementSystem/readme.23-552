@@ -1,0 +1,7 @@
+# StudentsmanagementSystem
+
+A Java-based student management system. Main files:
+- `InsertData.java`, `UpdateData.java`, `DeleteData.java`, `DisplayData.java`: Java source files for CRUD operations.
+- `.classpath`, `.project`: Eclipse project files.
+
+Compile and run the Java files to use the system.

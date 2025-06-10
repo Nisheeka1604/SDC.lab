@@ -1,0 +1,13 @@
+# SDC-master
+
+This repository contains a collection of projects and assignments covering web development, Java, Python, Django, and ReactJS. Each folder represents a different project or module:
+
+- **ASAP**: Java project with source and build files.
+- **django-to-do-app**: Django-based to-do list application.
+- **react-todo-app**: React.js to-do list application.
+- **ShoppingCart**: Simple HTML/CSS shopping cart web app.
+- **StudentsmanagementSystem**: Java-based student management system.
+- **Weather-App-main**: Django-based weather application.
+- **Week1**: Introductory assignments in HTML, CSS, and Python.
+
+Each subfolder contains a `readme.23-552` file with more details. Explore each project for specific instructions and usage information.

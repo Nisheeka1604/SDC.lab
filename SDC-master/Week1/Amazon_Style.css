@@ -1,0 +1,24 @@
+#topp{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#status{
+    color: rgb(0,118,0);
+}
+
+#addToCart{
+    border: none; 
+    border-radius: 50px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: rgb(255,216,20);
+}
+
+#buyNow{
+    border: none; 
+    border-radius: 50px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: rgb(255,164,28);
+}

@@ -1,0 +1,8 @@
+# ShoppingCart
+
+A simple shopping cart web application. Main files:
+- `cart.html`, `index.html`, `login.html`, `registration.html`: HTML pages for the app.
+- `style.css`: Stylesheet for the UI.
+- `bookstore_logo.jpg`: Logo image.
+
+Open `index.html` in a browser to start.
