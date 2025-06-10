@@ -1,7 +1,20 @@
 # ASAP
 
-This folder contains the ASAP project. It includes Java source code and build files. Main subfolders:
-- `build/`: Compiled classes and utilities.
-- `src/`: Source code for the application.
+Welcome to the **ASAP Project**!
 
-Refer to the respective subfolders for more details.
+This project is a comprehensive Java-based application designed to demonstrate best practices in modular software development. The folder contains all the necessary source code, build files, and resources to help you understand and extend the project with ease.
+
+## Folder Structure
+- `build/`: Contains compiled Java classes and utility files. This is where your output files will be generated after building the project.
+- `src/`: The heart of the project, containing all Java source code organized by package for clarity and maintainability.
+
+## Getting Started
+1. **Clone or download** this repository to your local machine.
+2. Open the project in your favorite Java IDE (such as Eclipse or IntelliJ IDEA).
+3. Build the project using your IDE's build tools or via command line.
+4. Explore the `src/` directory to understand the codebase and start contributing!
+
+## Contribution
+Feel free to fork this project and submit pull requests. Suggestions and improvements are always welcome!
+
+For more details, refer to the subfolders and in-code documentation.

@@ -1,7 +1,20 @@
 # Week1
 
-This folder contains introductory assignments and resources:
-- HTML and CSS files for web design practice.
-- `repo_explorer.py`: Python script for exploring repositories.
+Welcome to the **Week 1 Assignments and Resources**!
 
-Open the HTML files in a browser to view the pages.
+This folder contains a variety of introductory assignments and resources to help you get started with web development and Python scripting.
+
+## Contents
+- **HTML & CSS Files**: Practice web design and layout with files like `Amazon.html`, `CSSbuttons.html`, and `Amazon_Style.css`.
+- **Python Script**: `repo_explorer.py` for exploring and analyzing repositories.
+
+## How to Use
+- Open the HTML files in your web browser to view and interact with the web pages.
+- Run the Python script using `python repo_explorer.py` to explore its functionality.
+
+## Learning Goals
+- Understand the basics of HTML and CSS
+- Practice creating and styling web pages
+- Get hands-on experience with Python scripting
+
+Feel free to experiment, modify, and learn from these resources!

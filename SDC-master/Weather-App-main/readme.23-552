@@ -1,8 +1,27 @@
 # Weather-App-main
 
-A Django-based weather application. Main components:
-- `weatherapp/`: Contains app logic, models, and views.
-- `weatherproject/`: Project settings and configuration.
-- `static/`: Static files like CSS and images.
+Welcome to the **Weather App**!
 
-Run with `python manage.py runserver`.
+This project is a Django-based web application that provides real-time weather updates for any city. It is designed to be simple, fast, and visually appealing, making it a great learning resource for Django and web development.
+
+## Features
+- Search for current weather by city name
+- Displays temperature, humidity, and weather conditions
+- Clean and responsive user interface
+- Easy to extend and customize
+
+## Main Components
+- `weatherapp/`: Contains the core app logic, models, views, and templates.
+- `weatherproject/`: Project-level settings and configuration.
+- `static/`: Static files such as CSS and images for styling.
+
+## Getting Started
+1. Install dependencies: `pip install -r requirements.txt` (if available)
+2. Run migrations: `python manage.py migrate`
+3. Start the server: `python manage.py runserver`
+4. Open your browser and go to `http://127.0.0.1:8000/`
+
+## Contribution
+Contributions are encouraged! Fork the repo and submit your improvements.
+
+Explore the codebase to learn more about Django and web app development.
