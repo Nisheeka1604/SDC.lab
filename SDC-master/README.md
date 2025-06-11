@@ -1,76 +1,86 @@
-**Skill Development Lab – Full Stack Experiments**
+Welcome to the Sdc.lab repository. This collection contains 16 hands-on experiments designed to help students and beginners build strong practical skills in modern web and software development. It covers everything from Frontend to Backend to Full Stack technologies.
 
-Welcome to the Skill Development Lab Repository This collection contains 16 hands-on experiments designed to help students and beginners learn modern web and software development skills across Frontend, Backend, and Full Stack technologies.
+Each folder is named after the experiment it contains, and includes the complete code and required files.
 
-Each folder contains code and files for a specific experiment, named accordingly.
+What You’ll Learn
+Frontend development using HTML, CSS, JavaScript
 
-**What You’ll Learn**
+Responsive web design techniques
 
-Frontend Development
-Responsive Web Design
-JavaScript & ES6
-Java & MySQL (CRUD)
-Java Servlet (MVC)
-Session Management
-Node.js (REST APIs, Auth)
-React.js (SPA, Routing, Services)
-Django (Python Full-Stack)
-OpenWeatherMap API Integration
-Chart.js (Data Visualization)
+JavaScript ES6 concepts and Fetch API
 
+Java with MySQL for CRUD operations
 
-**List of Experiments & Technologies Used**
+Java Servlets with MVC pattern
 
-|S.no | Experiment | Description | Technology |
-|----|---------------------|-------------|------------|
-| 01 | Shopping Cart – CSS | Basic shopping cart using Flex & Grid | HTML, CSS3 |
-| 02 | Shopping Cart – Bootstrap | Responsive cart using Bootstrap | HTML, Bootstrap |
-| 03 | Form Validation | Client-side form validation | JavaScript |
-| 04 | Weather Info App | Fetch weather data & show graph | ES6, Fetch API, Chart.js |
-| 05 | Java CRUD | Perform Create, Read, Update, Delete | Java, JDBC, MySQL |
-| 06 | Servlet Controller | Connect frontend to DB using Servlet | Java Servlets, JSP |
-| 07 | Session Management | User session tracking | Cookies, HTTP Session |
-| 08 | NodeJS Server | Custom server, use modules | Node.js, HTTP, OS, path |
-| 09 | Student API | RESTful API to manage students | Node.js, Express |
-| 10 | Auth API | JWT-based secure endpoints | Node.js, Express, JWT |
-| 11 | React App – Student Mgmt | SPA with routing & forms | React.js, React Router |
-| 12 | React Weather App | Fetch & graph weather data | React, Chart.js, OpenWeatherMap |
-| 13 | React TODO App | Basic TODO with components | React.js |
-| 14 | Django – Student Mgmt | Django app with routing | Django (Python) |
-| 15 | Django Weather App | Fetch & graph weather info | Django, Chart.js |
-| 16 | Django TODO App | Basic TODO app using Django | Django (Python) |
+Session management in web apps
 
-**How to Use This Repository**
+Node.js for APIs and authentication
 
-**1. Clone the Repository**  
-   terminal-code
-   git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
-   cd Skill-Development-Lab
+React.js for building SPAs and handling routing
 
+Django as a full-stack Python framework
 
-**2. Open Specific Experiment**
-   Use VS Code or any IDE of your choice to explore each folder.
+OpenWeatherMap API integration
 
-**3. Run Web Projects**
+Chart.js for graphs and data visualization
 
-   • Open `index.html` directly in a browser *(for HTML/CSS/JS tasks)*
-   • Use `npm`/`node` for NodeJS experiments
-   • Use `python manage.py runserver` for Django apps
-   • Use `javac`/`java` for Java-based tasks
+List of Experiments and Technologies Used
+S.No	Experiment	Description	Technologies
+01	Shopping Cart – CSS	Basic cart layout using Flex and Grid	HTML, CSS3
+02	Shopping Cart – Bootstrap	Responsive cart using Bootstrap	HTML, Bootstrap
+03	Form Validation	Client-side form validation	JavaScript
+04	Weather Info App	Fetch live weather data and show graphs	ES6, Fetch API, Chart.js
+05	Java CRUD	Perform Create, Read, Update, Delete	Java, JDBC, MySQL
+06	Servlet Controller	Connect frontend to DB using Servlets	Java Servlets, JSP
+07	Session Management	User session tracking	Cookies, HTTP Session
+08	NodeJS Server	Build a custom server using Node.js modules	Node.js, HTTP, OS, path
+09	Student API	RESTful API to manage student data	Node.js, Express
+10	Auth API	JWT-based authentication API	Node.js, Express, JWT
+11	React App – Student Mgmt	React SPA with routing and form handling	React.js, React Router
+12	React Weather App	Display weather data using charts	React, Chart.js, OpenWeatherMap
+13	React TODO App	Simple TODO list using components	React.js
+14	Django – Student Mgmt	Full-stack student management app	Django (Python)
+15	Django Weather App	Fetch and display weather data	Django, Chart.js
+16	Django TODO App	Basic TODO app using Django	Django (Python)
 
+How to Use This Repository
+1. Clone the Repository
 
-**External Tools & APIs Used**
+bash
+Copy
+Edit
+git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
+cd Skill-Development-Lab
+2. Open a Specific Experiment
+Use VS Code or any IDE you prefer to open any of the folders.
 
-• OpenWeatherMap.org – For real-time weather data
-• Chart.js – For data visualization (React & Django)
-• MySQL / Oracle DB – For backend Java persistence
-• JWT – For API authentication in Node.js
+3. Run the Projects
 
-**Suggestions**
+For HTML/CSS/JS projects → open index.html in your browser
 
-• Beginners: Start with Experiments 1–4 to get comfortable with HTML/CSS/JS
-• Intermediate: Try Experiments 5–10 to build your backend skills
-• Advanced: Explore React and Django projects (11–16)
+For Node.js apps → use npm install and node commands
 
-**License**
-This repository is open for learning and educational use.
+For Django apps → run python manage.py runserver
+
+For Java programs → compile with javac and run using java
+
+External Tools and APIs Used
+OpenWeatherMap – for real-time weather data
+
+Chart.js – for data visualization
+
+MySQL / Oracle DB – for Java backend
+
+JWT – for authentication in Node.js APIs
+
+Suggestions
+If you’re just starting out, begin with Experiments 1 to 4
+
+To build backend skills, try Experiments 5 to 10
+
+For advanced learning, go for React and Django projects (11 to 16)
+
+License
+This repository is open for learning and educational purposes.
+
