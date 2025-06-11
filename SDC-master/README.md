@@ -66,11 +66,6 @@ Chart.js (Data Visualization)
 • MySQL / Oracle DB – For backend Java persistence
 • JWT – For API authentication in Node.js
 
-**Author**
-
-M Swayam Prakash
-Passionate about full-stack development and building impactful projects with modern web technologies.
-
 **Suggestions**
 
 • Beginners: Start with Experiments 1–4 to get comfortable with HTML/CSS/JS
